@@ -1,10 +1,10 @@
 cff-version: 1.0.0
 message: If you use this software, please cite it as below.
 authors:
-  - family-names: "Terriel"
-    given-names: "Lucas"
-    orcid: "https://orcid.org/0000-0002-9189-258X"
-    affiliation: "École nationale des chartes"
+- family-names: "Terriel"
+  given-names: "Lucas"
+  orcid: "https://orcid.org/0000-0002-9189-258X"
+  affiliation: "École nationale des chartes"
 
 title: "Document Segmentation & Recognition with Kraken, a streamlit application"
 version: 0.0.1
