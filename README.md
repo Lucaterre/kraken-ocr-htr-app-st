@@ -10,6 +10,9 @@
 
 *This app build with pedagogical purpose to show how to use Kraken models and what are the steps in generic OCR/HTR pipeline before start a real or much bigger project.*
 
+📊 To evaluate the recognition model performance on your data, you can use [KaMI-App](https://github.com/KaMI-tools-project/KaMI-app), a generic metric dashboard app for OCR/HTR models.
+
+
 ### Install & run the app locally
 
 create a virtual environment and install the dependencies:
