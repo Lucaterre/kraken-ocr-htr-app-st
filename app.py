@@ -7,12 +7,12 @@ import random
 
 import streamlit as st
 
-from lib.constants import CONFIG_METADATA
-from lib.display_utils import (display_baselines,
+from st_lib.constants import CONFIG_METADATA
+from st_lib.display_utils import (display_baselines,
                                display_baselines_with_text,
                                prepare_segments,
                                open_image)
-from lib.kraken_utils import (load_model_seg,
+from st_lib.kraken_utils import (load_model_seg,
                               load_model_rec,
                               segment_image,
                               recognize_text)
